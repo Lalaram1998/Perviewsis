@@ -28,7 +28,7 @@ export default function ThirdSection() {
                 Key <span className="text-orange-500 font-bold">benefits</span>
                 <br /> of automated workflow analysis
               </h2>
-              <button className="mt-4 bg-orange-500 text-sm text-white font-semibold py-2 px-4 rounded hover:bg-orange-600 transition">
+              <button className="hidden md1:inline-block bg-orange-400 text-white cursor-pointer px-4 py-1 rounded-3xl font-medium text-sm tracking-[0.5px] whitespace-nowrap">
                 DISCOVER MORE ABOUT THE PLATFORM
               </button>
             </div>
