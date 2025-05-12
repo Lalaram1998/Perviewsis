@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@theme {
+  --breakpoint-md1: 59rem;
+  --font-display: "Poppins", "sans-serif";
+}
